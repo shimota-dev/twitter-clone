@@ -12,6 +12,10 @@
   color: var(--twitter-color);
 }
 
+.sidebarOption__active {
+  color: var(--twitter-color);
+}
+
 .sidebarOption > .MuiSvgIcon-root {
   padding-right: 20px;
 }
